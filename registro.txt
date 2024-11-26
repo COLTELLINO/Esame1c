@@ -1,0 +1,10 @@
+Mario Rossi 1234 25 30 28 27 30
+Giovanna Bianchi 5678 28 26 30 25 27
+Luca Verdi 9012 24 28 26 29 27
+Chiara Russo 3456 26 24 28 27 30
+Paolo Esposito 7890 30 29 28 27 26
+Laura Fontana 2345 25 26 24 27 28
+Fabio Ricci 6789 28 30 26 27 29
+Sara Colombo 0123 27 25 24 26 30
+Matteo DeLuca 4567 30 28 26 25 27
+Francesca Marchetti 8901 26 27 25 28 30
